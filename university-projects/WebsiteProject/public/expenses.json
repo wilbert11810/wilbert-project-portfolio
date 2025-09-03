@@ -1,0 +1,35 @@
+[
+  { "title": "Groceries", "amount": 50, "date": "2025-04-01", "category": "food", "notes": "Bought fresh veggies" },
+  { "title": "Electricity Bill", "amount": 120, "date": "2025-04-02", "category": "bills", "notes": "Monthly charge" },
+  { "title": "Movie Tickets", "amount": 30, "date": "2025-04-03", "category": "entertainment", "notes": "Watched a new release" },
+  { "title": "Dinner with Friends", "amount": 75, "date": "2025-04-04", "category": "food", "notes": "Restaurant expense" },
+  { "title": "Internet Subscription", "amount": 60, "date": "2025-04-05", "category": "bills", "notes": "Broadband payment" },
+  { "title": "Gym Membership", "amount": 40, "date": "2025-04-06", "category": "others", "notes": "Monthly subscription" },
+  { "title": "Concert Ticket", "amount": 80, "date": "2025-04-07", "category": "entertainment", "notes": "Live music event" },
+  { "title": "Coffee Beans", "amount": 20, "date": "2025-04-08", "category": "food", "notes": "Bought specialty coffee" },
+  { "title": "Car Fuel", "amount": 100, "date": "2025-04-09", "category": "others", "notes": "Refilled gas tank" },
+  { "title": "Weekend Getaway", "amount": 250, "date": "2025-04-10", "category": "entertainment", "notes": "Hotel and travel expenses" },
+  
+
+  { "title": "Phone Bill", "amount": 45, "date": "2025-04-11", "category": "bills", "notes": "Mobile carrier charge" },
+  { "title": "Lunch at Café", "amount": 30, "date": "2025-04-12", "category": "food", "notes": "Had a great sandwich" },
+  { "title": "Book Purchase", "amount": 25, "date": "2025-04-13", "category": "others", "notes": "Bought a novel" },
+  { "title": "Taxi Fare", "amount": 15, "date": "2025-04-14", "category": "others", "notes": "Commute expenses" },
+  { "title": "Dinner Takeout", "amount": 40, "date": "2025-04-15", "category": "food", "notes": "Ordered pizza" },
+  { "title": "Streaming Subscription", "amount": 12, "date": "2025-04-16", "category": "entertainment", "notes": "Monthly Netflix charge" },
+  { "title": "Music Concert", "amount": 120, "date": "2025-04-17", "category": "entertainment", "notes": "Live event pass" },
+  { "title": "Laptop Repair", "amount": 85, "date": "2025-04-18", "category": "others", "notes": "Screen replacement" },
+  { "title": "Coffee Shop Visit", "amount": 10, "date": "2025-04-19", "category": "food", "notes": "Espresso and pastry" },
+  
+
+  { "title": "Event Ticket", "amount": 55, "date": "2025-04-20", "category": "entertainment", "notes": "Comedy show ticket" },
+  { "title": "Gift Purchase", "amount": 75, "date": "2025-04-21", "category": "others", "notes": "Birthday present" },
+  { "title": "Dinner at Steakhouse", "amount": 100, "date": "2025-04-22", "category": "food", "notes": "Celebratory dinner" },
+  { "title": "Gym Annual Fee", "amount": 500, "date": "2025-04-23", "category": "others", "notes": "Paid for a full year" },
+  { "title": "Laptop Upgrade", "amount": 1200, "date": "2025-04-24", "category": "others", "notes": "Bought new RAM and SSD" },
+  { "title": "Flight Tickets", "amount": 650, "date": "2025-04-25", "category": "others", "notes": "Vacation trip" },
+  { "title": "Car Insurance", "amount": 200, "date": "2025-04-26", "category": "bills", "notes": "Annual renewal" },
+  { "title": "Fitness Classes", "amount": 80, "date": "2025-04-27", "category": "others", "notes": "Joined online yoga sessions" },
+  { "title": "Hotel Stay", "amount": 300, "date": "2025-04-28", "category": "entertainment", "notes": "Weekend getaway" },
+  { "title": "Pet Supplies", "amount": 40, "date": "2025-04-29", "category": "others", "notes": "Bought dog food and treats" }
+]
